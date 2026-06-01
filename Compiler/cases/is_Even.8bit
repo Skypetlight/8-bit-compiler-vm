@@ -1,0 +1,13 @@
+fun isEven(n){
+	if (n % 2 == 0) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
+fun main(){
+   print_string("isEven(8)=");
+   print_boolean(isEven(8));
+}

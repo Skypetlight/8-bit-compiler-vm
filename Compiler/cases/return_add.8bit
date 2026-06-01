@@ -1,0 +1,12 @@
+fun add1(x){
+   return x;
+}
+
+fun add2(y){
+   return y;
+}
+
+fun main(){
+   print_string("10+56=")
+   print_number(add1(10) + add2(56));
+}

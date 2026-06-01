@@ -1,0 +1,8 @@
+fun f(x, y, z){
+   return x + y + z;
+}
+
+fun main(){
+   print_string("f(22, 22, 22)=")
+   print_number(f(22, 22, 22));
+}

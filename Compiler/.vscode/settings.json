@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "ANTLR4\\antlr-4.13.2-complete.jar"
+    ]
+}

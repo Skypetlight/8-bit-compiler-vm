@@ -1,0 +1,11 @@
+fun assign() {
+	let {
+		y = "Hello 666!";
+	}{
+		return y;
+	}
+}
+
+fun main(){
+   print_string(assign())
+}

@@ -1,0 +1,11 @@
+fun devilsnumber(){
+   return "Hello 666!";
+}
+
+fun salute(){
+   return devilsnumber();
+}
+
+fun main(){
+   print_string(salute());
+}

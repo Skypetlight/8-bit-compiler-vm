@@ -1,0 +1,15 @@
+fun reverse_number(n){
+   let {
+      r = 0;
+   }
+   while (n > 0) {
+      r = r * 10 + n % 10;
+      n = n / 10;
+   }
+   return r;
+}
+
+fun main(){
+   print_string("reverse(251)=");
+   print_number(reverse_number(251));
+}
