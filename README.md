@@ -34,12 +34,6 @@ This project includes a full migration of the virtual machine to Java.
 
 The 8-Bit language design and grammar specification were originally created as part of a university compiler course by the course professor.
 
-## Compiler Implementation
-
-The compiler implementation itself — including parsing integration, code generation, assembly generation, compiler structure, project architecture, and Java implementation — was developed by:
-
-- Alejandro Vega
-
 ---
 
 # Technologies Used
